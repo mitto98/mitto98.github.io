@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt generate"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/vue-fontawesome": "^2.0.6",
+    "@nuxtjs/tailwindcss": "^4.2.1",
+    "nuxt": "~2.15.8",
+    "postcss": "8.3.11",
+    "sass": "1.43.4",
+    "sass-loader": "10.1.1",
+    "webpack": "^4.46.0"
+  }
+}
