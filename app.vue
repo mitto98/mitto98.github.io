@@ -13,15 +13,7 @@
         target="_blank"
         rel="noopener noreferrer"
         >profilo GitHub </a
-      >. <br /><br />
-      Nel tempo libero mi dedico alla fotografia e mi diverto a guardare anime,
-      leggere e a costruire oggetti inutilmente complicati che risolvono
-      problemi inesistenti.
+      >.
     </div>
   </div>
 </template>
-
-<script>
-import "../assets/css/tailwind.scss";
-export default {};
-</script>
